@@ -103,7 +103,7 @@ Plot {
 - **플러그인 사용 빈도**: `character-diary`(21) · `zetagram`(14) · `message`(14) · `phone-peek`(14) · `dream`(13) · `cartoonify`(12) · `ending`(11) · `ghost-chat`(10) · `anonymous-board`(8) · `relationship-chart`(4) · `quest` · `clock` · `bgm`(각 3) · `event-cut` · `dice` · `sudden_event`(각 1)
 
 플러그인을 보면 제타가 단순 1:1 채팅이 아니라 **채팅 위에 게임과 SNS 요소를 얹은 구조**라는 걸 알 수 있다.
-캐릭터 일기, 가상 인스타(zetagram), 캐릭터 폰 훔쳐보기, 꿈, 웹툰화(cartoonify), 엔딩, 익명 게시판, 관계도, 퀘스트, 주사위 같은 기능이 있다.
+캐릭터 일기, 가상 인스타(zetagram), 캐릭터 폰 훔쳐보기, 꿈, 대화 구간 만화화(cartoonify, 유료·출력 형식은 미확인), 엔딩, 익명 게시판, 관계도, 퀘스트, 주사위 같은 기능이 있다.
 플러그인 목록, 아이콘, 매니페스트는 `/v1/plugins`, `/v1/plugins/:pluginId/manifest`로 따로 받아 오므로, 플러그인을 하나의 확장 시스템으로 운영하는 것으로 보인다.
 
 ## 5. 클라이언트 번들에서 찾은 API 표면
