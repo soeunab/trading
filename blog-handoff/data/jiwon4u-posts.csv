@@ -1,0 +1,39 @@
+﻿published,title,url,labels,updated
+2026-08-30,구글 블로그 테마 설치부터 클로드 최적화까지: 제트테마 직접 고친 과정,https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html,블로그스킨;클로드,2026-10-20
+2026-09-30,로컬 LLM 코딩 실패기: 9B 모델에 블로그 자동화 프로그램을 통째로 맡겼더니,https://www.jiwon4u.kr/2026/09/local-llm-coding-fail-blog-automation.html,로컬LLM;블로그자동화;클로드,2026-10-19
+2026-10-01,맥미니 로컬 LLM 올라마 활용: 블로그 자동화에서 gemma4 12b에 맡긴 일과 안 맡긴 일,https://www.jiwon4u.kr/2026/10/mac-mini-local-llm-ollama-gemma4-blog-automation.html,로컬LLM;블로그자동화;올라마;클로드,2026-10-19
+2026-10-01,클로드 블로그 자동화 후기: 구독·올라마·제미나이로 API 요금 줄인 3단 구조,https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html,블로그자동화;올라마;클로드,2026-10-19
+2026-10-02,클로드 MCP 뜻과 AI 용어 정리: API·토큰·CLI·에이전트 쉬운 설명,https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html,AI용어;블로그자동화,2026-10-20
+2026-10-02,클로드 네이버 블로그 자동화 버그 기록: 롱테일 키워드가 거꾸로 뽑히던 날,https://www.jiwon4u.kr/2026/10/claude-naver-blog-automation-bug-log-long-tail-keyword.html,롱테일키워드;블로그자동화;클로드,2026-10-19
+2026-10-02,클로드 블로그 자동화 프롬프트 규칙 15가지: AI가 경험을 지어내지 못하게 막은 방법,https://www.jiwon4u.kr/2026/10/claude-blog-automation-prompt-rules-15.html,블로그자동화;클로드;프롬프트,2026-10-19
+2026-10-03,"AI에이전트 뜻 쉬운 정리: 귀찮음 경제와 MS 음성 AI 소식, 직장인은 뭘 알아야 할까요",https://www.jiwon4u.kr/2026/10/ai-agent-meaning-office-worker-guide.html,AI 에이전트;AI용어;Claude;업무 자동화;직장인 AI,2026-10-19
+2026-10-03,"클로드 블로그 자동화 글쓰기: AI가 쓴 글, 사람 검수 없이는 공개 못 하게 만든 이유",https://www.jiwon4u.kr/2026/10/claude-blog-automation-writing-human-review.html,블로그자동화;클로드,2026-10-19
+2026-10-06,클로드 API 구독 차이: 구독으로 쓸 때와 API 키로 쓸 때 요금은 이렇게 달라요,https://www.jiwon4u.kr/2026/10/claude-api-vs-subscription-difference.html,블로그자동화;클로드,2026-10-19
+2026-10-07,클로드 요금제 무료로 충분할까? Pro·Max 결제 전 점검 (클로드 가격·구독료),https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html,AI 도구;요금제 비교;클로드;프리랜서 AI,2026-10-19
+2026-10-09,"프롬프트 클로드 제미나이 챗지피티, 같은 문장 넣으면 답이 똑같을까?",https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html,AI 도구;제미나이;챗지피티;클로드;프롬프트,2026-10-20
+2026-10-11,"로컬 llm 뜻, 작동 방식·장단점·클라우드 AI와의 차이 정리",https://www.jiwon4u.kr/2026/10/local-llm-meaning-vs-cloud-ai.html,AI 도구;AI용어;LM Studio;Ollama;로컬 LLM,2026-10-19
+2026-10-12,블로그 자동화 프로그램 만들기: 클로드로 만들고 Aside 브라우저로 테스트하며 완성하는 과정,https://www.jiwon4u.kr/2026/10/blog-automation-program-claude-code-aside-test.html,블로그자동화;클로드;클로드 코드,2026-10-20
+2026-10-13,카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기,https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html,블로그자동화;카드뉴스;클로드,2026-10-20
+2026-10-14,클로드 PPT 만들기: 보고서 내용을 발표 자료로 바꾸는 프롬프트와 방법,https://www.jiwon4u.kr/2026/10/claude-ppt-making-prompt-guide.html,직장인 AI;클로드;프롬프트,2026-10-19
+2026-10-14,클로드 데스크탑 다운로드와 설치 방법: 처음 켜서 설정할 것까지 정리,https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html,AI 도구;직장인 AI;클로드,2026-10-19
+2026-10-14,클로드 엑셀 사용법: 파일 올려 표 정리·수식·차트까지 받는 방법,https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html,AI 도구;직장인 AI;클로드,2026-10-19
+2026-10-15,클로드 Cowork(코워크)란? 채팅·클로드 코드와 차이와 쓰는 법 정리,https://www.jiwon4u.kr/2026/10/claude-cowork-meaning-chat-code-difference.html,AI용어;업무 자동화;클로드,2026-10-19
+2026-10-15,클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지,https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html,AI 도구;클로드;프롬프트,2026-10-19
+2026-10-15,클로드 이미지 생성 되나요? 코드로 만들 수 있는 그림 범위 정리,https://www.jiwon4u.kr/2026/10/claude-image-generation-svg-html-range.html,AI 도구;직장인 AI;클로드,2026-10-19
+2026-10-15,클로드 코드 뜻: Claude Code가 무엇이고 채팅·Cowork와 다른 점 정리,https://www.jiwon4u.kr/2026/10/claude-code-meaning-vs-chat-cowork.html,AI용어;클로드;클로드 코드,2026-10-19
+2026-10-16,클로드 MCP 연결 방법: 커넥터 추가부터 노션 연동까지 정리,https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html,AI 도구;업무 자동화;클로드,2026-10-19
+2026-10-16,클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리,https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html,AI 도구;직장인 AI;클로드,2026-10-19
+2026-10-17,Draw Things 사용법: 맥에서 Z-Image Turbo로 무료 이미지 만들고 클로드 코드로 API 연결하기,https://www.jiwon4u.kr/2026/10/draw-things-usage-z-image-turbo-claude-code-api.html,AI 도구;클로드 코드,2026-10-19
+2026-10-17,"클로드 아티팩트 뜻부터 사용법, 무료 플랜에서 되는 범위까지 정리",https://www.jiwon4u.kr/2026/10/claude-artifacts-meaning-usage-free-plan.html,직장인 AI;클로드;프롬프트,2026-10-19
+2026-10-17,"클로드 코드 사용법, 설치부터 CLAUDE.md 설정까지 순서대로 정리",https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html,직장인 AI;클로드;클로드 코드,2026-10-21
+2026-10-19,"claude in chrome 설치방법과 사이드 패널 사용법, 요금제 조건 정리",https://www.jiwon4u.kr/2026/10/claude-in-chrome-install-usage-guide.html,클로드;프롬프트,2026-10-21
+2026-10-19,"클로드 사용량 확인 방법과 한도·초기화 시간, 플랜별 차이 정리",https://www.jiwon4u.kr/2026/10/claude-usage-check-limit-reset.html,클로드;클로드 코드,2026-10-21
+2026-10-20,"클로드 앱 설치 방법과 웹 차이, 무료 범위·요금 비교",https://www.jiwon4u.kr/2026/10/claude-app-install-web-difference-pricing.html,클로드,2026-10-21
+2026-10-20,"클로드 한글 파일 읽기·올리기 방법, HWP는 되는지 정리",https://www.jiwon4u.kr/2026/10/claude-hangul-file-hwp-upload-guide.html,클로드,2026-10-21
+2026-10-21,"playwright 뜻, 클로드가 브라우저를 대신 조작하는 원리 쉽게 정리",https://www.jiwon4u.kr/2026/10/playwright-meaning-claude-mcp-browser.html,AI용어;클로드,2026-10-21
+2026-10-21,"클로드 디자인 사용법, 템플릿 4가지와 어디에 쓰는지 정리",https://www.jiwon4u.kr/2026/10/claude-design-usage-4-templates.html,클로드,2026-10-21
+2026-10-22,클로드 코드에서 REA를 활용한 '제타AI' 구조 분석,https://www.jiwon4u.kr/2026/10/claude-code-rea-website-structure-analysis.html,jeta ai;제타AI;클로드;클로드 활용,2026-10-22
+2026-10-27,"클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html,클로드;클로드 활용,2026-10-27
+2026-10-28,"클로드 오류, 원인부터 확인하고 바로 해결하는 방법",https://www.jiwon4u.kr/2026/10/claude-error-cause-fix-guide.html,클로드;클로드 코드,2026-10-28
+2026-10-28,"클로드 환불 되는 경우와 구독 취소 순서, 한눈에 정리",https://www.jiwon4u.kr/2026/10/claude-refund-subscription-cancel-guide.html,클로드;클로드구독,2026-10-28
+2026-10-29,"클로드 사용법, 가입부터 기본 활용까지 순서대로 정리",https://www.jiwon4u.kr/2026/10/claude-usage-signup-basic-guide.html,클로드;프롬프트,2026-10-29

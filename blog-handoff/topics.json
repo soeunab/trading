@@ -1,0 +1,1203 @@
+{
+  "updated": "2026-10-29",
+  "site": "https://www.jiwon4u.kr",
+  "status_legend": {
+    "draft_done": "초안 완료",
+    "ready": "바로 작성 가능",
+    "verify": "작성 전 공식 확인 필요",
+    "handson": "직접 해 본 결과 필요",
+    "prompt_design": "프롬프트 설계로 작성(예시·캡처는 직접)"
+  },
+  "pillar_legend": {
+    "A": "업무별 해결법",
+    "B": "문제 해결",
+    "C": "비교·선택",
+    "D": "직접 해 본 기록",
+    "E": "기능·용어"
+  },
+  "topics": [
+    {
+      "id": "T01",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "draft_done",
+      "status_name": "초안 완료",
+      "title": "회의록 정리 AI, 클로드로 녹음 텍스트를 결정사항·할 일 표로 바꾸는 법",
+      "slug": "meeting-notes-ai-claude-action-items",
+      "keywords": [
+        "회의록 정리 AI",
+        "회의록 자동 작성",
+        "회의록 작성법"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html"
+        },
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        },
+        {
+          "title": "클로드 PPT 만들기: 보고서 내용을 발표 자료로 바꾸는 프롬프트와 방법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-ppt-making-prompt-guide.html"
+        }
+      ],
+      "draft": "drafts/2026-10-meeting-notes-ai-claude.md",
+      "notes": ""
+    },
+    {
+      "id": "T02",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "업무 이메일 답장, 클로드로 상황별 말투 맞춰 쓰는 프롬프트 7개",
+      "slug": "",
+      "keywords": [
+        "업무 메일 쓰는 법",
+        "메일 답장 AI"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html"
+        },
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T03",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "주간 보고서 쓰는 법, 메모만 넣으면 보고서 형식으로 바꾸는 클로드 프로젝트 세팅",
+      "slug": "",
+      "keywords": [
+        "주간 보고서 양식",
+        "보고서 작성 AI"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T04",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "기획서 초안 만들기, 클로드에게 질문받으며 빈칸 채우는 방법",
+      "slug": "",
+      "keywords": [
+        "기획서 작성법",
+        "기획서 AI"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [],
+      "draft": null,
+      "notes": "grill-me 스킬(질문 라운드) 소개를 곁들일 수 있음"
+    },
+    {
+      "id": "T05",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "엑셀 함수 몰라도 되는 법, 클로드에게 원하는 결과를 말로 설명하기",
+      "slug": "",
+      "keywords": [
+        "엑셀 함수 AI",
+        "VLOOKUP 대신"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 엑셀 사용법: 파일 올려 표 정리·수식·차트까지 받는 방법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T06",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "긴 PDF 보고서 10분 요약, 클로드로 핵심·숫자·질문거리 뽑기",
+      "slug": "",
+      "keywords": [
+        "PDF 요약 AI"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 한글 파일 읽기·올리기 방법, HWP는 되는지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-hangul-file-hwp-upload-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T07",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "자기소개서·이력서 첨삭, 클로드로 직무 맞춤 수정하는 순서",
+      "slug": "",
+      "keywords": [
+        "자소서 첨삭 AI",
+        "이력서 AI"
+      ],
+      "research": [],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T08",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "신입사원 업무 적응, 클로드로 사내 용어·업무 흐름 정리 노트 만들기",
+      "slug": "",
+      "keywords": [
+        "신입사원 업무",
+        "사회초년생 AI"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T09",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "프리랜서 견적서·계약 메일, 클로드로 빠르게 쓰고 꼭 사람이 확인할 것",
+      "slug": "",
+      "keywords": [
+        "프리랜서 견적서",
+        "견적 메일"
+      ],
+      "research": [],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T10",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "고객 문의 답변 템플릿, 클로드 스킬로 우리 회사 말투 고정하기",
+      "slug": "",
+      "keywords": [
+        "CS 답변 AI",
+        "고객 응대 템플릿"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T11",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "설문 결과 분석, CSV를 올려 그래프와 요약 받는 방법",
+      "slug": "",
+      "keywords": [
+        "설문 분석 AI",
+        "엑셀 분석"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 엑셀 사용법: 파일 올려 표 정리·수식·차트까지 받는 방법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-excel-usage-upload-clean-formula-chart.html"
+        },
+        {
+          "title": "클로드 아티팩트 뜻부터 사용법, 무료 플랜에서 되는 범위까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-artifacts-meaning-usage-free-plan.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T12",
+      "pillar": "A",
+      "pillar_name": "업무별 해결법",
+      "status": "prompt_design",
+      "status_name": "프롬프트 설계로 작성(예시·캡처는 직접)",
+      "title": "영어 메일·문서 번역, 클로드로 비즈니스 톤 살려 번역하기",
+      "slug": "",
+      "keywords": [
+        "비즈니스 영어 메일 AI"
+      ],
+      "research": [],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T13",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 \"대화가 너무 깁니다\" 메시지가 뜰 때 이어서 작업하는 방법",
+      "slug": "",
+      "keywords": [
+        "클로드 대화 길이 제한"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 오류, 원인부터 확인하고 바로 해결하는 방법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-error-cause-fix-guide.html"
+        },
+        {
+          "title": "클로드 사용량 확인 방법과 한도·초기화 시간, 플랜별 차이 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-usage-check-limit-reset.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T14",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 사용량 빨리 닳을 때 아끼는 습관 8가지",
+      "slug": "",
+      "keywords": [
+        "클로드 사용량 절약",
+        "클로드 한도"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 사용량 확인 방법과 한도·초기화 시간, 플랜별 차이 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-usage-check-limit-reset.html"
+        },
+        {
+          "title": "클로드 요금제 무료로 충분할까? Pro·Max 결제 전 점검 (클로드 가격·구독료)",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T15",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 파일 업로드 안 될 때: 용량·형식·개수 확인 순서",
+      "slug": "",
+      "keywords": [
+        "클로드 파일 업로드 오류"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 오류, 원인부터 확인하고 바로 해결하는 방법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-error-cause-fix-guide.html"
+        },
+        {
+          "title": "클로드 한글 파일 읽기·올리기 방법, HWP는 되는지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-hangul-file-hwp-upload-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T16",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 답이 자꾸 영어로 나올 때, 한국어로 고정하는 설정",
+      "slug": "",
+      "keywords": [
+        "클로드 한국어 설정"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 사용법, 가입부터 기본 활용까지 순서대로 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-usage-signup-basic-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T17",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "블로거 ?m=1 이동 때문에 리디렉션 오류가 날까? 37개 주소로 직접 테스트한 결과",
+      "slug": "",
+      "keywords": [
+        "블로거 리디렉션 오류",
+        "구글 색인 안됨",
+        "블로그스팟 m=1"
+      ],
+      "research": [
+        "research/04-search-console-indexing.md"
+      ],
+      "internal_links": [
+        {
+          "title": "구글 블로그 테마 설치부터 클로드 최적화까지: 제트테마 직접 고친 과정",
+          "url": "https://www.jiwon4u.kr/2026/08/google-blog-skin-jettheme.html"
+        }
+      ],
+      "draft": null,
+      "notes": "최종 해결 결과는 후속 글로. 서치콘솔 '실제 URL 테스트' 결과를 받으면 보강"
+    },
+    {
+      "id": "T18",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "서치콘솔 색인 상태 뜻 총정리: 리디렉션 오류 vs 리디렉션이 포함된 페이지 vs 발견됨 vs 크롤링됨",
+      "slug": "",
+      "keywords": [
+        "서치콘솔 색인 생성되지 않음",
+        "크롤링됨 현재 색인이 생성되지 않음",
+        "발견됨 현재 색인이 생성되지 않음"
+      ],
+      "research": [
+        "research/04-search-console-indexing.md"
+      ],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T19",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "챗GPT vs 클로드 vs 제미나이, 직장인 업무 5가지로 직접 비교",
+      "slug": "",
+      "keywords": [
+        "챗GPT 클로드 차이",
+        "제미나이 클로드 비교"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "프롬프트 클로드 제미나이 챗지피티, 같은 문장 넣으면 답이 똑같을까?",
+          "url": "https://www.jiwon4u.kr/2026/10/same-prompt-claude-gemini-chatgpt-difference.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T20",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 Pro와 Max, 내 사용량이면 어느 쪽인지 고르는 법",
+      "slug": "",
+      "keywords": [
+        "클로드 Pro Max 차이"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 요금제 무료로 충분할까? Pro·Max 결제 전 점검 (클로드 가격·구독료)",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-pricing-free-pro-max-guide.html"
+        },
+        {
+          "title": "클로드 사용량 확인 방법과 한도·초기화 시간, 플랜별 차이 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-usage-check-limit-reset.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T21",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "노션 AI vs 클로드, 문서 정리는 무엇이 나을까",
+      "slug": "",
+      "keywords": [
+        "노션 AI 클로드 비교"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 MCP 연결 방법: 커넥터 추가부터 노션 연동까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T22",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 웹·앱·데스크톱·크롬 확장, 상황별로 뭘 쓰면 되나",
+      "slug": "",
+      "keywords": [
+        "클로드 앱 웹 차이"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 앱 설치 방법과 웹 차이, 무료 범위·요금 비교",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-app-install-web-difference-pricing.html"
+        },
+        {
+          "title": "클로드 데스크탑 다운로드와 설치 방법: 처음 켜서 설정할 것까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-desktop-download-install-guide.html"
+        },
+        {
+          "title": "claude in chrome 설치방법과 사이드 패널 사용법, 요금제 조건 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-in-chrome-install-usage-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T23",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "draft_done",
+      "status_name": "초안 완료",
+      "title": "포토샵 무료로 쓰는 법? 유튜브 '포토샵 무료' 주장 5가지 확인해 봤어요",
+      "slug": "photoshop-free-claims-fact-check-artcraft",
+      "keywords": [
+        "포토샵 무료",
+        "포토샵 무료로 쓰는 법",
+        "아트크래프트",
+        "챗GPT 포토샵"
+      ],
+      "research": [
+        "research/01-photoshop-free.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 이미지 생성 되나요? 코드로 만들 수 있는 그림 범위 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-image-generation-svg-html-range.html"
+        },
+        {
+          "title": "Draw Things 사용법: 맥에서 Z-Image Turbo로 무료 이미지 만들고 클로드 코드로 API 연결하기",
+          "url": "https://www.jiwon4u.kr/2026/10/draw-things-usage-z-image-turbo-claude-code-api.html"
+        },
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        }
+      ],
+      "draft": "drafts/2026-10-photoshop-free-fact-check.md",
+      "notes": ""
+    },
+    {
+      "id": "T24",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "draft_done",
+      "status_name": "초안 완료",
+      "title": "무료 AI 영상 만들기, '무제한'은 없었어요: 플로우·Vids·Vrew·힉스필드 실제 무료 한도 정리",
+      "slug": "free-ai-video-tools-real-limits-flow-vids-higgsfield",
+      "keywords": [
+        "무료 AI 영상",
+        "AI 영상 무료 사이트",
+        "구글 플로우 무료",
+        "Veo 3.1 무료"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드 사용법, 설치부터 CLAUDE.md 설정까지 순서대로 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html"
+        },
+        {
+          "title": "클로드 디자인 사용법, 템플릿 4가지와 어디에 쓰는지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-design-usage-4-templates.html"
+        },
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        }
+      ],
+      "draft": "drafts/2026-10-free-ai-video-limits.md",
+      "notes": ""
+    },
+    {
+      "id": "T25",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "힉스필드 MCP 요금과 무료 여부, 클로드에 연결하면 얼마 드나",
+      "slug": "",
+      "keywords": [
+        "힉스필드 요금",
+        "힉스필드 무료",
+        "Higgsfield MCP"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 MCP 연결 방법: 커넥터 추가부터 노션 연동까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html"
+        }
+      ],
+      "draft": null,
+      "notes": "요금표 발행 당일 확인. T24와 검색어 겹치지 않게 '요금' 중심"
+    },
+    {
+      "id": "T26",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "리모션 vs 하이퍼프레임, 클로드 코드로 영상 만드는 두 도구 차이",
+      "slug": "",
+      "keywords": [
+        "리모션",
+        "하이퍼프레임",
+        "Remotion HyperFrames 차이"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드 사용법, 설치부터 CLAUDE.md 설정까지 순서대로 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T27",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "클로드로 영상 만들 수 있나? 클로드 디자인·Claude Motion·클로드 코드 구분",
+      "slug": "",
+      "keywords": [
+        "클로드 영상 만들기",
+        "클로드 모션",
+        "클로드 디자인 영상"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 디자인 사용법, 템플릿 4가지와 어디에 쓰는지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-design-usage-4-templates.html"
+        },
+        {
+          "title": "클로드 코드 뜻: Claude Code가 무엇이고 채팅·Cowork와 다른 점 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-meaning-vs-chat-cowork.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T28",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "클로드 스킬 어디서 찾나? skills.sh vs SkillsMP vs SkillHub 비교와 안전하게 받는 법",
+      "slug": "",
+      "keywords": [
+        "클로드 스킬 다운로드",
+        "스킬 마켓플레이스",
+        "skills.sh"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        },
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T29",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "누끼 무료 도구 비교: Clipdrop, remove.bg, 포토샵 모바일",
+      "slug": "",
+      "keywords": [
+        "누끼 무료",
+        "배경 제거 무료"
+      ],
+      "research": [
+        "research/01-photoshop-free.md"
+      ],
+      "internal_links": [
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T30",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "유튜브 '무료' AI 툴 영상, 제휴 링크 구별하는 법",
+      "slug": "",
+      "keywords": [
+        "제휴 링크 구별",
+        "AI 툴 무료 광고"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [],
+      "draft": null,
+      "notes": "짧은 글. 특정 유튜버 실명 금지"
+    },
+    {
+      "id": "T31",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "유튜브 튜토리얼을 클로드 스킬로 만들어 봤다: watch 스킬 설치부터 결과까지",
+      "slug": "",
+      "keywords": [
+        "클로드 유튜브 요약",
+        "watch 스킬"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        },
+        {
+          "title": "클로드 코드 사용법, 설치부터 CLAUDE.md 설정까지 순서대로 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T32",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "REA로 내 블로그를 분석해 봤다: 구조와 개선점",
+      "slug": "",
+      "keywords": [
+        "REA 사용법",
+        "사이트 구조 분석"
+      ],
+      "research": [
+        "research/05-rea.md",
+        "research/04-search-console-indexing.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드에서 REA를 활용한 '제타AI' 구조 분석",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-rea-website-structure-analysis.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T33",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "블로그 자동화 한 달 결산: 글 몇 편, 색인 몇 편, 시간 얼마나 줄었나",
+      "slug": "",
+      "keywords": [
+        "블로그 자동화 후기"
+      ],
+      "research": [
+        "research/04-search-console-indexing.md"
+      ],
+      "internal_links": [
+        {
+          "title": "블로그 자동화 프로그램 만들기: 클로드로 만들고 Aside 브라우저로 테스트하며 완성하는 과정",
+          "url": "https://www.jiwon4u.kr/2026/10/blog-automation-program-claude-code-aside-test.html"
+        },
+        {
+          "title": "클로드 블로그 자동화 후기: 구독·올라마·제미나이로 API 요금 줄인 3단 구조",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-blog-automation-review-3-tier-routing.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T34",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "클로드로 카드뉴스 한 달 운영기: 조회수·저장 수 공개",
+      "slug": "",
+      "keywords": [
+        "카드뉴스 자동화 후기"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T35",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "AI 대화 기반 매칭 서비스 기획기: 제타 벤치마킹에서 수익 모델까지",
+      "slug": "",
+      "keywords": [
+        "AI 서비스 기획",
+        "AI 매칭 앱 기획"
+      ],
+      "research": [
+        "research/06-zeta-webtoon-funnel-law.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드에서 REA를 활용한 '제타AI' 구조 분석",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-rea-website-structure-analysis.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T36",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "하이퍼프레임으로 카드뉴스를 숏츠 영상으로: 클로드 코드 설치부터 결과까지",
+      "slug": "",
+      "keywords": [
+        "하이퍼프레임 사용법",
+        "카드뉴스 영상 만들기"
+      ],
+      "research": [
+        "research/02-ai-video-tools.md"
+      ],
+      "internal_links": [
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        },
+        {
+          "title": "클로드 코드 사용법, 설치부터 CLAUDE.md 설정까지 순서대로 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-install-guide-mac-path.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T37",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "handson",
+      "status_name": "직접 해 본 결과 필요",
+      "title": "클로드로 한글(HWPX) 파일 만들기: hwpxskill 써 봤다",
+      "slug": "",
+      "keywords": [
+        "클로드 한글 파일 만들기",
+        "hwpx 스킬"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 한글 파일 읽기·올리기 방법, HWP는 되는지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-hangul-file-hwp-upload-guide.html"
+        },
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T38",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 메모리 기능, 켜면 무엇을 기억하고 어떻게 지우나",
+      "slug": "",
+      "keywords": [
+        "클로드 메모리"
+      ],
+      "research": [],
+      "internal_links": [
+        {
+          "title": "클로드 프로젝트 만들기, 지침과 자료부터 바로 설정하는 법",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-project-setup-instructions-knowledge.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T39",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "클로드 리서치(웹 검색) 기능으로 출처 달린 자료 조사하기",
+      "slug": "",
+      "keywords": [
+        "클로드 리서치",
+        "클로드 웹 검색"
+      ],
+      "research": [],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T40",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "스킬·MCP·플러그인 차이, 그림 한 장으로 정리",
+      "slug": "",
+      "keywords": [
+        "클로드 스킬 MCP 차이",
+        "클로드 플러그인"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 MCP 뜻과 AI 용어 정리: API·토큰·CLI·에이전트 쉬운 설명",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-mcp-meaning-ai-terms-glossary.html"
+        },
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        },
+        {
+          "title": "클로드 MCP 연결 방법: 커넥터 추가부터 노션 연동까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-mcp-connector-setup-notion.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T41",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "verify",
+      "status_name": "작성 전 공식 확인 필요",
+      "title": "AI 생성물 표시 의무(AI기본법), 블로그·SNS 운영자가 알아야 할 것",
+      "slug": "",
+      "keywords": [
+        "AI기본법 표시 의무",
+        "AI 생성물 표시"
+      ],
+      "research": [
+        "research/06-zeta-webtoon-funnel-law.md"
+      ],
+      "internal_links": [],
+      "draft": null,
+      "notes": "법령 원문·시행령 확인 전 단정 금지"
+    },
+    {
+      "id": "T42",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "아트크래프트(ArtCraft)란? 무엇이 되고 안 되는지, 안전하게 받는 법",
+      "slug": "",
+      "keywords": [
+        "아트크래프트",
+        "ArtCraft",
+        "포토크래프트"
+      ],
+      "research": [
+        "research/01-photoshop-free.md",
+        "research/05-rea.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 이미지 생성 되나요? 코드로 만들 수 있는 그림 범위 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-image-generation-svg-html-range.html"
+        }
+      ],
+      "draft": null,
+      "notes": "화제성 높음. T23과 겹치지 않게 아트크래프트 자체에 집중"
+    },
+    {
+      "id": "T43",
+      "pillar": "C",
+      "pillar_name": "비교·선택",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "유튜브에서 추천하는 클로드 스킬 6개, 설치 전에 확인해 봤어요",
+      "slug": "",
+      "keywords": [
+        "클로드 스킬 추천",
+        "클로드 코드 스킬 추천"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        },
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T44",
+      "pillar": "B",
+      "pillar_name": "문제 해결",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "클로드 스킬 설치 전 보안 체크리스트: 훅·텔레메트리·몰래 받는 실행 파일 확인법",
+      "slug": "",
+      "keywords": [
+        "클로드 스킬 보안",
+        "플러그인 안전"
+      ],
+      "research": [
+        "research/03-claude-skills.md",
+        "research/05-rea.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 사용법과 추천: 켜는 법부터 불러 쓰는 방법까지 정리",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skills-usage-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T45",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "REA(Reverse Engineer Anything)란? 할 수 있는 것과 가짜 배포본 주의점",
+      "slug": "",
+      "keywords": [
+        "REA 뜻",
+        "Reverse Engineer Anything"
+      ],
+      "research": [
+        "research/05-rea.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드에서 REA를 활용한 '제타AI' 구조 분석",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-rea-website-structure-analysis.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T46",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "제타AI는 왜 ChatGPT보다 오래 쓰일까? AI 캐릭터 앱 성공 비결 8가지",
+      "slug": "",
+      "keywords": [
+        "제타 AI",
+        "제타AI 인기 이유"
+      ],
+      "research": [
+        "research/06-zeta-webtoon-funnel-law.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 코드에서 REA를 활용한 '제타AI' 구조 분석",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-code-rea-website-structure-analysis.html"
+        }
+      ],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T47",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "AI로 만든 웹툰 팔 수 있을까? 저작권 등록과 웹툰 플랫폼 정책",
+      "slug": "",
+      "keywords": [
+        "AI 웹툰 저작권",
+        "AI 웹툰 판매"
+      ],
+      "research": [
+        "research/06-zeta-webtoon-funnel-law.md"
+      ],
+      "internal_links": [],
+      "draft": null,
+      "notes": ""
+    },
+    {
+      "id": "T48",
+      "pillar": "D",
+      "pillar_name": "직접 해 본 기록",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "AI 크리에이터들이 쓰는 '댓글 키워드 → 자동 DM → 가이드' 유입 구조",
+      "slug": "",
+      "keywords": [
+        "인스타 자동 DM",
+        "댓글 자동 DM 마케팅"
+      ],
+      "research": [
+        "research/06-zeta-webtoon-funnel-law.md"
+      ],
+      "internal_links": [
+        {
+          "title": "카드뉴스 만들기 AI로 자동화: 블로그 글을 인스타그램·스레드에 카드뉴스로 발행하기",
+          "url": "https://www.jiwon4u.kr/2026/10/card-news-ai-automation-instagram-threads.html"
+        }
+      ],
+      "draft": null,
+      "notes": "특정 채널 실명·비판 금지, 구조만"
+    },
+    {
+      "id": "T49",
+      "pillar": "E",
+      "pillar_name": "기능·용어",
+      "status": "ready",
+      "status_name": "바로 작성 가능",
+      "title": "클로드가 유튜브를 보고 공부한다? watch 스킬로 되는 것과 안 되는 것",
+      "slug": "",
+      "keywords": [
+        "클로드 유튜브 영상 보기",
+        "클로드 영상 분석"
+      ],
+      "research": [
+        "research/03-claude-skills.md"
+      ],
+      "internal_links": [
+        {
+          "title": "클로드 스킬 만들기와 설정 방법: 대화로 만들어 켜기까지",
+          "url": "https://www.jiwon4u.kr/2026/10/claude-skill-create-setup-guide.html"
+        }
+      ],
+      "draft": null,
+      "notes": "설명 글. 실습 후기는 T31"
+    }
+  ]
+}
